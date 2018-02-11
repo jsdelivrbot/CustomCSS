@@ -3,8 +3,8 @@
 @import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css");
 
 :root {
-    --version-content: "7.8";
-    --theme-name: "Quiet";
+    --version-content: "0.1";
+    --theme-name: "QuietEdit";
     --theme-letter: "Q";
 }
 
@@ -2554,8 +2554,6 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 .popout.popout-top:not(.no-arrow){z-index: 8;}
 
 #friends .friends-table .friends-table-body{height: calc(100% - 92px);}
-
-.quiet{height: 70px;}
 
 .guilds-wrapper .dms{display: block;margin-top: 7px;margin-bottom: -4px;}
 
