@@ -4743,3 +4743,8 @@ input, textarea {color: white;}
 .attachment-1Vom9D {width: auto !important;}
 
 .noticePremium-2x9Tv2 { display:none !important}
+
+:root { 
+ --main-color: #A5292F;
+ --hover-color: #5B161A;
+ }
