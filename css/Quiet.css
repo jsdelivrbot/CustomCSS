@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i);
-@import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css");
+@import url("https://cdn.jsdelivr.net/gh/0mniscient/Discord-Themes/css/Tags.css");
 
 :root {
     --version-content: " ";
